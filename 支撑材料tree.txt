@@ -1,0 +1,42 @@
+卷 软件 的文件夹 PATH 列表
+卷序列号为 49C6-0EAC
+D:.
+│  tree.txt
+│  
+├─问题1
+│      data_preprocess.py
+│      Figure_1.png
+│      Figure_2.png
+│      Figure_3.png
+│      第1张图的Hu矩和对比度.txt
+│      第2张图的Hu矩和对比度.txt
+│      第3张图的Hu矩和对比度.txt
+│      
+├─问题2
+│      best.pt
+│      data_augment.py
+│      train.ipynb
+│      
+├─问题3
+│      best.pt
+│      convert_to_single_line.py
+│      output_to_excel.py
+│      predict.py
+│      Test_results.xlsx
+│      YOLO_TO_JSON.py
+│      
+└─问题4
+        bmp2jpg.py
+        change_fodername.py
+        class2chinese.py
+        class_dict.json
+        divide_class.py
+        draw_blocks.py
+        draw_capa.py
+        jpg2bmp.py
+        mobileNet_test.py
+        mobileNet_train.py
+        photo_cut.py
+        task4_merge.py
+        文字识别结果.zip
+        
